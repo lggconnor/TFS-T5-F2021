@@ -512,7 +512,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "5db09d735f674d098d03b35c8e134a3b",
     "m_Id": 0,
-    "m_DisplayName": "PanSpeed",
+    "m_DisplayName": "PanSpeedU",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
