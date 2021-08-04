@@ -146,9 +146,6 @@
         },
         {
             "m_Id": "3d8173b08f0746f3bf166a4ebb6c6f93"
-        },
-        {
-            "m_Id": "f210ca6c7edf483cbde2517ed511652f"
         }
     ],
     "m_GroupDatas": [
@@ -639,9 +636,6 @@
             },
             {
                 "m_Id": "f9e709fcbe52472d98f92fa9abe0c6ae"
-            },
-            {
-                "m_Id": "f210ca6c7edf483cbde2517ed511652f"
             }
         ]
     },
@@ -3421,21 +3415,6 @@
 {
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
-    "m_ObjectId": "dc7fb747aba84999bbd63c979ac7a247",
-    "m_Id": 0,
-    "m_DisplayName": "Alpha",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Alpha",
-    "m_StageCapability": 2,
-    "m_Value": 1.0,
-    "m_DefaultValue": 1.0,
-    "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "e02e626a82a346f190b9c7d966fcf5dd",
     "m_Id": 2,
     "m_DisplayName": "Cosine Time",
@@ -3629,39 +3608,6 @@
     "m_Property": {
         "m_Id": "a5064da00ffa4ed39b61fbc98317258e"
     }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.BlockNode",
-    "m_ObjectId": "f210ca6c7edf483cbde2517ed511652f",
-    "m_Group": {
-        "m_Id": ""
-    },
-    "m_Name": "SurfaceDescription.Alpha",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": 0.0,
-            "y": 0.0,
-            "width": 0.0,
-            "height": 0.0
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "dc7fb747aba84999bbd63c979ac7a247"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_SerializedDescriptor": "SurfaceDescription.Alpha"
 }
 
 {
