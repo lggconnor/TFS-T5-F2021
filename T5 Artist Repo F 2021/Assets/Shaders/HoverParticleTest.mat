@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HoverParticleTest
+  m_Shader: {fileID: -6465566751694194690, guid: 73f42d1fcfd16c848852db182012987b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_41735e49badf408b9fccfcfce4f8c4fa: 0.01
+    - Vector1_544e52e13d254e3cbd198f71c947319b: 1
+    - Vector1_7d0e4768827c4f73888159b0cf9c52ce: 0.1
+    - Vector1_9c50f4660d1c4f3f990540017e480c52: 10
+    - Vector1_b8ccb65fae254877a48acd5502fb5aa6: 0.5
+    - Vector1_d7d3e125dd02473389bed0c36ea1595f: 10.26
+    m_Colors:
+    - Color_8f0f629f8f324e6897719591e8391ca0: {r: 0.6666667, g: 0.7921569, b: 1.8352941, a: 0.105882354}
+    - _Color: {r: 1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
