@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicDissolve
+  m_Shader: {fileID: -6465566751694194690, guid: 826a33d5b9f24a44fa753a7b43993f22, type: 3}
+  m_ShaderKeywords: BOOLEAN_63A5C7D940EB45218067FA306175012F_ON BOOLEAN_AAE3C5FC98CB491BBCF2FAD90535C116_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_ab2c07f8ee5543b38f90c61f0b56ae2b:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_e0f9c7769f6a4d4fbe2ddeddb36e504f:
+        m_Texture: {fileID: 2800000, guid: 9644eb6aca67672449e2bcbb0eab8e84, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - BOOLEAN_63A5C7D940EB45218067FA306175012F: 1
+    - BOOLEAN_AAE3C5FC98CB491BBCF2FAD90535C116: 1
+    - Vector1_1a742ade9c8148d08471763ee0704e50: 0.003
+    - Vector1_4204bd0a16f84d499f1e90561ff49b87: 0.043
+    - Vector1_a0f3e636207d4d81be940b6be44ea009: 1.05
+    - Vector1_a55502cd418c421bb93df859f3824bb0: 0.5
+    - Vector1_cca2919d4b194d84be735a6c655805da: 0.1
+    - Vector1_ced3346f127f41c8a409f1f24c835c39: 0.149
+    - Vector1_d1daa9a12f87499bbb6ab4d6ffedd730: 22.4
+    m_Colors:
+    - Color_84f1ee23740f4fae939043eb2475c41a: {r: 1.898873, g: 0.9544074, b: 0.36784452, a: 0}
+    - Vector2_c65e3aaf259f481ab5a0574ce80f639f: {r: 0.01, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
